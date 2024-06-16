@@ -21,7 +21,7 @@ Sinta-se à vontade para me contatar se você estiver interessado em discutir so
 Estou sempre aberto a contribuições e feedback. Se você tiver sugestões sobre como posso melhorar meus projetos ou se encontrar algum problema, não hesite em abrir uma issue ou enviar um pull request. Sua ajuda é muito apreciada!
 
 ## GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sonnnDev&show_icons=true&theme=radical)
 
 ## Obrigado por Visitar
 Obrigado por dar uma olhada no meu perfil do GitHub! Sinta-se à vontade para explorar meus repositórios e projetos. Espero que você encontre algo interessante por aqui. Se você gostar do que viu, não se esqueça de seguir-me para ficar atualizado sobre os meus últimos trabalhos!
